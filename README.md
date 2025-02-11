@@ -1,12 +1,21 @@
 <div align="center">
-  <img src="https://img.shields.io/badge/An%C3%A1lisis%20de%20Ventas%20en%20E-commerce-FFD700?style=flat&logo=bar-chart&logoColor=black" width="800"/>
+  <img src="https://img.shields.io/badge/Optimizando%20Estrategias%20de%20E-commerce%20con%20Datos-FFD700?style=flat&logo=bar-chart&logoColor=black" width="800"/>
 </div>
 
-📊 **Análisis de ventas para identificar patrones, optimizar inventarios y mejorar estrategias comerciales.**  
+# 📊 Análisis de Comportamiento de Compras en un E-commerce  
 
-🔹 **Herramientas:** Python, Pandas, Seaborn, Matplotlib  
-🔹 **Insights:** Tendencias de ventas, segmentación de clientes, optimización logística.  
+Este proyecto explora datos de ventas para detectar patrones de compra, optimizar inventarios y mejorar estrategias comerciales.  
 
-🚀 **Decisiones basadas en datos para maximizar la rentabilidad.**
+## 🚀 ¿Qué logré?  
+🔹 Identifiqué los países con mayores ventas e ingresos.  
+🔹 Analicé tendencias de compra para ajustar la oferta y demanda.  
+🔹 Segmenté clientes para personalizar campañas de marketing.  
+🔹 Optimicé la gestión de inventarios con datos estratégicos.  
 
+## 🛠️ Herramientas Utilizadas  
+- **Lenguaje:** Python 🐍  
+- **Librerías:** Pandas, Seaborn, Matplotlib, NumPy  
+- **Visualización:** Dashboards y gráficos interactivos  
+
+📈 **Un enfoque basado en datos para impulsar la eficiencia y rentabilidad del negocio.** 🚀  
 
